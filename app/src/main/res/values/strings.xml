@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Melbourne News</string>
+
+    <string name="no_internet_connection">No data available.\nPlease check your internet connection and try again.</string>
+    <string name="news_url_not_provided_text">No link available</string>
+
+</resources>
